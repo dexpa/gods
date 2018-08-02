@@ -2,7 +2,7 @@ package slice_test
 
 import (
 	"testing"
-	"github.com/cheebo/gods/slice"
+	"github.com/dexpa/gods/slice"
 	"github.com/stretchr/testify/assert"
 )
 
